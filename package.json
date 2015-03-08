@@ -1,5 +1,30 @@
 {
-  "private": true,
+  "name": "MaterializecssAdminUI",
+  "version": "1.0.0",
+  "description": "Admin UI with Materializecss",
+  "main": "index.html",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adminconnect/Materializecss-Admin-IU"
+  },
+  "keywords": [
+    "Admin",
+    "UI",
+    "Materializecss",
+    "Administrator",
+    "Interface",
+    "Sass"
+  ],
+  "author": "nicolas silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adminconnect/Materializecss-Admin-IU/issues"
+  },
+  "homepage": "https://github.com/adminconnect/Materializecss-Admin-IU",
+  "private": false,
   "engines": {
     "node": ">=0.10.0"
   },
