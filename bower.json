@@ -2,6 +2,7 @@
   "name": "materializecss-admin-ui",
   "private": true,
   "dependencies": {
-    "jquery": "~2.1.1"
+    "jquery": "~2.1.1",
+    "materialize": "~0.95.3"
   }
 }
